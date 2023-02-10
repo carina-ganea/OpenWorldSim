@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 652aba467e8e54e4d827192dc336feb7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hp_ui: {fileID: 5549128487266426029, guid: 0ba53f8354c85b646a30d48ab1ba1d33, type: 3}
+  - stamina_ui: {fileID: 8175555079161458622, guid: 305d84eb9006efe41bd28addd2446cce, type: 3}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

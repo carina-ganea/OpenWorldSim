@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 263d8fba1644b2042b5f520ffd9a1956
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hp_ui: {fileID: 5549128487266426029, guid: 0ba53f8354c85b646a30d48ab1ba1d33, type: 3}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

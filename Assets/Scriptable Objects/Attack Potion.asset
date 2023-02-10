@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f58cc21ce9c9db49b7e27308ce59f61, type: 3}
+  m_Name: Attack Potion
+  m_EditorClassIdentifier: 
+  name: Attack Potion
+  objectName: Attack Potion
+  colorIsRandom: 0
+  thisColor: {r: 0.8867924, g: 0.06274474, b: 0.06274474, a: 1}
+  icon: {fileID: 21300000, guid: 2925e73d7819b8d4cb79f0a91feb6729, type: 3}
+  selectedIcon: {fileID: 21300000, guid: 3d81b5f8f0349f14abc29a2c1200a684, type: 3}
+  spawnPoints: []
+  prefab: {fileID: 1635502194903164599, guid: a64a27cc74cb29d4494a35b2de5ac76a, type: 3}
+  value: 100
